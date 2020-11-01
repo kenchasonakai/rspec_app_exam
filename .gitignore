@@ -32,3 +32,5 @@
 
 # Ignore .idea files
 .idea
+# Ignore .swp files
+*.swp
